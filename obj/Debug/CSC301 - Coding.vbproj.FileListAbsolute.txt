@@ -1,0 +1,45 @@
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\obj\Debug\CSC301 - Coding.vbproj.AssemblyReference.cache
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\obj\Debug\CSC301___Coding.formHome.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\obj\Debug\CSC301___Coding.formSignUp.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\obj\Debug\CSC301___Coding.Resources.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\obj\Debug\CSC301 - Coding.vbproj.GenerateResource.cache
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\obj\Debug\CSC301 - Coding.vbproj.CoreCompileInputs.cache
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\bin\Debug\CSC301 - Database.accdb
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\bin\Debug\CSC301 - Coding.exe.config
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\bin\Debug\CSC301 - Coding.exe
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\bin\Debug\CSC301 - Coding.pdb
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\bin\Debug\CSC301 - Coding.xml
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\bin\Debug\System.Data.OleDb.dll
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\bin\Debug\System.Data.OleDb.xml
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\obj\Debug\CSC301 - Coding.vbproj.CopyComplete
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\obj\Debug\CSC301 - Coding.exe
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\obj\Debug\CSC301 - Coding.xml
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\obj\Debug\CSC301 - Coding.pdb
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Coding\obj\Debug\CSC301___Coding.formLogin.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\bin\Debug\CSC301 - Database.accdb
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\bin\Debug\CSC301 - Coding.exe.config
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\bin\Debug\CSC301 - Coding.exe
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\bin\Debug\CSC301 - Coding.pdb
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\bin\Debug\CSC301 - Coding.xml
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\bin\Debug\System.Data.OleDb.dll
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\bin\Debug\System.Data.OleDb.xml
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301 - Coding.vbproj.AssemblyReference.cache
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formHome.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formSignUp.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formLogin.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formMenu.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formOption.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formSummary.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formPayment.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formComplete.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.Resources.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301 - Coding.vbproj.GenerateResource.cache
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301 - Coding.vbproj.CoreCompileInputs.cache
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301 - Coding.vbproj.CopyComplete
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301 - Coding.exe
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301 - Coding.xml
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301 - Coding.pdb
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formControl.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formStaff.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formCustomer.resources
+C:\Users\adyha\OneDrive\Desktop\CSC301 - Group Project\obj\Debug\CSC301___Coding.formOrder.resources

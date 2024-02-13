@@ -1,0 +1,14 @@
+--------------------------------------------
+		Order Report
+--------------------------------------------
+Total Egg-dition (Set):              RM23.70
+Total Egg-dition (A La Carte):       RM22.00
+Total Chicken Lover (Set):            RM0.00
+Total Chicken Lover (A La Carte):     RM0.00
+Total Beef Maniac (Set):              RM0.00
+Total Beef Maniac (A La Carte):       RM0.00
+Total Seafood Addict (Set):           RM0.00
+Total Seafood Addict (A La Carte):    RM0.00
+--------------------------------------------
+TOTAL INCOME:                        RM45.70
+--------------------------------------------
